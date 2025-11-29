@@ -9,4 +9,4 @@
 **Reply** - A web-based SaaS for Online Personal Banking & Financial Services <br />
 [Live Demo](https://reply-demo-app.netlify.app) [Source Code](https://github.com/rveljko/reply)
 
-[Portfolio](https://rveljko.github.io), [Email](mailto:rveljkowork@gmail.com), [LinkedIn](https://linkedin.com/in/rveljko), [Twitter (X)](https://x.com/rveljko_)
+[Portfolio](https://rveljko.github.io), [Email](mailto:rveljkowork@gmail.com), [LinkedIn](https://linkedin.com/in/rveljko)
